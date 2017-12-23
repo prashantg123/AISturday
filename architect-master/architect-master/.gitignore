@@ -1,0 +1,10 @@
+*.pyc
+*.gz
+*.asqg
+*.containment
+*.sublime-project
+*.sublime-workspace
+*.dot
+backup/*
+checkpoints/*
+*.fasta
